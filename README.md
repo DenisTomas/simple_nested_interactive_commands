@@ -1,9 +1,9 @@
 #EN/PT-Br
-# Employee Promotion Sorting App 
+# Employee Promotion Sorting App / Organização de Promoção de Funcionários
 
 This is a Python script named "Employee Promotion Sorting App". The script defines a function called `ordenar_promocoes` that sorts a list of employee tuples based on their enrollment dates.
 
-Este é um script Python chamado "Employee Promotion Sorting App". O script define uma função chamada `ordenar_promocoes` que ordena uma lista de tuplas de funcionários com base em suas datas de matrícula.
+Este é um script Python chamado "Organização de Promoção de Funcionários". O script define uma função chamada `ordenar_promocoes` que ordena uma lista de tuplas de funcionários com base em suas datas de matrícula.
 
 ## Function
 
